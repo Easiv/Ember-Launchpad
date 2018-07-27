@@ -1,0 +1,20 @@
+{
+  "name": "ember-launchpad",
+  "version": "1.0.0",
+  "description": "Recreating the launchpad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[2~\u001b[2~\u001b[2~https://github.com/Easiv/Ember-Launchpad"
+  },
+  "keywords": [
+    "ember",
+    "launchpad",
+    "cool"
+  ],
+  "author": "Easiv",
+  "license": "ISC"
+}
